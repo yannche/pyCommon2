@@ -7,8 +7,5 @@ git fetch origin
 git reset --hard origin/master
 
 
-touch ~/Bureau/test.py
-
-
 source ~/pyCommon2/apres_maj
 cd ~
