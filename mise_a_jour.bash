@@ -6,6 +6,9 @@ cd ~/pyCommon2
 git fetch origin
 git reset --hard origin/master
 
-source ~/pyCommon2/apres_maj
 
+touch ~/Bureau/test.py
+
+
+source ~/pyCommon2/apres_maj
 cd ~
