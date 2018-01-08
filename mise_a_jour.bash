@@ -7,3 +7,5 @@ git fetch origin
 git reset --hard origin/master
 
 source ~/pyCommon2/apres_maj
+
+cd ~
