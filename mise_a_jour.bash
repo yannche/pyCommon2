@@ -6,7 +6,7 @@ cd ~/pyCommon2
 git fetch origin
 git reset --hard origin/master
 
-# cp /home/personne/pyCommon2/import/* /home/personne/Bureau/ -R
+cp /home/personne/pyCommon2/import/* /home/personne/Bureau/ -R
 
 source ~/pyCommon2/apres_maj
 cd ~
